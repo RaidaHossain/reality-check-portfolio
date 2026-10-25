@@ -17,6 +17,7 @@ Identification of the most positive, negative, and neutral sections of a video
 JSON-based output to share analysis results across the team
 
 Tech Stack
+
 Frontend and Design: React, Figma
 AI/ML: Hugging Face Transformers, RoBERTa
 Data Processing: Python, YouTube Transcript API
